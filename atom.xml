@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://resolveJ108.github.io/</id>
-    <title>resolve</title>
-    <updated>2020-04-27T05:56:05.494Z</updated>
+    <title>伴奏、</title>
+    <updated>2020-04-28T02:05:32.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://resolveJ108.github.io/"/>
     <link rel="self" href="https://resolveJ108.github.io/atom.xml"/>
     <subtitle>等闲变却故人心、却道故人心易变</subtitle>
     <logo>https://resolveJ108.github.io/images/avatar.png</logo>
     <icon>https://resolveJ108.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, resolve</rights>
+    <rights>All rights reserved 2020, 伴奏、</rights>
     <entry>
         <title type="html"><![CDATA[盖伦下载器2.3]]></title>
         <id>https://resolveJ108.github.io/23/</id>
         <link href="https://resolveJ108.github.io/23/">
         </link>
         <updated>2020-04-27T02:51:20.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://resolveJ108.github.io/about/</id>
-        <link href="https://resolveJ108.github.io/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://resolveJ108.github.io/hello-gridea/</id>
-        <link href="https://resolveJ108.github.io/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
